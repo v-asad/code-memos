@@ -1,4 +1,4 @@
-# [Sleeping Tabs]
+# Sleeping Tabs
 
 Some browsers have a tab freezing or sleeping feature to reduce computer resource usage for inactive tabs. This can cause SignalR connections to close and may result in an unwanted user experience. Browsers use heuristics to figure out if a tab should be put to sleep, such as:
 
