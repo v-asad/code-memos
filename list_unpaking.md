@@ -13,5 +13,5 @@ last = name[2]
 
 ```python
 name = ['Hashir', 'Nouman', 'Qazi']
-fist, middle, last = name
+first, middle, last = name
 ```
